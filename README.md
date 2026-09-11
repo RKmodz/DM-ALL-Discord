@@ -1,23 +1,23 @@
 # Discord DM All — Open Source
 
-Un outil **open source en Python** permettant d’envoyer un même message en DM à plusieurs membres d’un serveur Discord.
+A simple **open-source Python tool** for sending a message to multiple Discord server members using a Discord bot.
 
-### Configuration rapide
+### Quick Setup
 
-1. Installer les dépendances Python.
-2. Ajouter le **token de son bot** dans la configuration.
-3. Écrire le **message à envoyer**.
-4. Lancer le programme.
+1. Install the required Python dependencies.
+2. Enter your **bot token**.
+3. Enter the **message** you want to send.
+4. Run the program.
 
-Et c’est tout : le bot s’occupe du reste automatiquement.
+That's it — the bot handles the rest automatically.
 
-### Fonctionnalités
+### Features
 
-* 🐍 Développé en Python
+* 🐍 Written in Python
 * 🔓 Open source
-* ⚙️ Configuration simple
-* 💬 Message personnalisable
-* 🤖 Utilisation avec un bot Discord
-* 📦 Installation rapide
+* ⚙️ Easy configuration
+* 💬 Custom message
+* 🤖 Discord bot support
+* 📦 Simple and lightweight
 
-> ⚠️ Utilisez uniquement cet outil sur des serveurs où vous avez l’autorisation d’envoyer des messages aux membres. Un envoi massif non sollicité peut être considéré comme du spam et entraîner des sanctions Discord.
+> ⚠️ Use this tool responsibly and only on servers where you have permission to contact members. Mass unsolicited DMs may be considered spam and can result in Discord account or bot restrictions.
