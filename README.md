@@ -1,6 +1,6 @@
 # Discord DM All — Open Source
 
-A simple **open-source Python tool** for sending a message to multiple Discord server members using a Discord bot.
+A simple **open-source Python tool** for sending a message to multiple Discord server members using a Discord bot (the source is in french).
 
 ### Quick Setup
 
